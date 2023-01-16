@@ -1,7 +1,5 @@
 # Doker Cross Container Application
-This repo is an example of how to use docker to chain up mysql, nginx, php and vue.js.
-
-The full explaination of the whole set up can be found in my blog : 
+This repo is an example of how to use docker to chain up mysql, nginx, php and vue.js. The full explaination of the whole set up can be found in my blog : 
 
 - [CROSS CONTAINER ( PART 1 ) - DOCKER NETWORKING - CONNECT PHP + MYSQL + NGINX](
 https://wilsonsdevnotes.blogspot.com/2022/10/docker-11-cross-container-part-1-docker.html)
